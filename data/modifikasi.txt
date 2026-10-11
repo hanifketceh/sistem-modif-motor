@@ -1,0 +1,3 @@
+Knalpot|250000
+Roller CVT|75000
+Lampu LED|100000
